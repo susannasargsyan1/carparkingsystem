@@ -1,0 +1,7 @@
+Car Parking Distance control system
+1. Arrival of a vehicle
+2. Total no. of cars parked
+3. Display order in which vehicles are parked
+4. Departure of vehicle
+5. Check History
+6. Exit
